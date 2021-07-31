@@ -6,20 +6,20 @@ My project notebooks to [DataCamp](https://learn.datacamp.com/) projects.
 ## Python Projects
 | Project       | Description |
 |-----------|------|
-| `pro_name`    | - Description   |
-| `pro_name`   | XX   |
-| `pro_name` | XX   |
+| `pro_name`    | <Description>   |
+| `pro_name`   | <Description>   |
+| `pro_name` | <Description>   |
 
 ## R Projects
 | Project       | Description |
 |-----------|------|
-| `pro_name`    | XX   |
-| `pro_name`   | XX   |
-| `pro_name` | XX   |
+| `pro_name`    | <Description>   |
+| `pro_name`   | <Description>   |
+| `pro_name` | <Description>   |
 
 ## SQL Projects
 | Project       | Description |
 |-----------|------|
-| `pro_name`    | XX   |
-| `pro_name`   | XX   |
-| `pro_name` | XX   |
+| `pro_name`    | <Description>   |
+| `pro_name`   | <Description>   |
+| `pro_name` | <Description>   |
