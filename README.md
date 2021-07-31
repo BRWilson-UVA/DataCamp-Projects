@@ -17,13 +17,10 @@ My project notebooks to [DataCamp](https://learn.datacamp.com/) projects.
 ## R Projects
 | Project       | Description |
 |-----------|------|
-| `pro_name`    | <Description>   |
-| `pro_name`   | <Description>   |
-| `pro_name` | <Description>   |
+| `Dr. Semmelweis and the Discovery of Handwashing`    | <Description>   |
 
 ## SQL Projects
 | Project       | Description |
 |-----------|------|
 | `Analyze International Debt Statistics`    | <Description>   |
 | `pro_name`   | <Description>   |
-| `pro_name` | <Description>   |
