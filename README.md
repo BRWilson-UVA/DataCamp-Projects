@@ -6,9 +6,9 @@ My project notebooks to [DataCamp](https://learn.datacamp.com/) projects.
 ## Python Projects
 | Project       | Description |
 |-----------|------|
-| XXX    | XX   |
-| XXX   | XX   |
-| XXX | XX   |
+| 'project_name'    | XX   |
+| 'project_name'   | XX   |
+| 'project_name' | XX   |
 
 ## R Projects
 | Project       | Description |
