@@ -7,8 +7,9 @@ My project notebooks to [DataCamp](https://learn.datacamp.com/) projects.
 | Project       | Description |
 |-----------|------|
 | `A Visual History of Nobel Prize Winners`    | Explore patterns and trends over 100 years worth of Nobel Prize winners   |
-| `pro_name`   | <Description>   |
-| `pro_name` | <Description>   |
+| `Analyzing TV Data`   | <Description>   |
+| `Investigating Netflix Movies and Guest Stars` | <Description>   |
+| `Investigating Netflix Movies and Guest Stars in The Office` | <Description>   |
 
 ## R Projects
 | Project       | Description |
@@ -20,6 +21,6 @@ My project notebooks to [DataCamp](https://learn.datacamp.com/) projects.
 ## SQL Projects
 | Project       | Description |
 |-----------|------|
-| `pro_name`    | <Description>   |
+| `Analyze International Debt Statistics`    | <Description>   |
 | `pro_name`   | <Description>   |
 | `pro_name` | <Description>   |
