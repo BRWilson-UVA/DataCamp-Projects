@@ -6,7 +6,7 @@ My project notebooks to [DataCamp](https://learn.datacamp.com/) projects.
 ## Python Projects
 | Project       | Description |
 |-----------|------|
-| `pro_name`    | <Description>   |
+| `A Visual History of Nobel Prize Winners`    | Explore patterns and trends over 100 years worth of Nobel Prize winners   |
 | `pro_name`   | <Description>   |
 | `pro_name` | <Description>   |
 
