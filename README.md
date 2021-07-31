@@ -1,4 +1,4 @@
 # DataCamp-Projects
 My project notebooks to [DataCamp](https://learn.datacamp.com/) projects.
 
-<img src="https://images.app.goo.gl/MtbHRdz6AVYLQbHc6" width="300">
+<img src="https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1603223608/DC_New_mugdv8.png" width="300">
